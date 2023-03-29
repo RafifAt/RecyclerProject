@@ -67,11 +67,6 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp">
 
-        <ImageButton
-            android:layout_width="40dp"
-            android:layout_height="45dp"
-            android:layout_marginLeft=""
-
         <androidx.cardview.widget.CardView
             android:layout_width="70dp"
             android:layout_height="20dp"
@@ -152,8 +147,6 @@
             tools:listitem="@layout/item_shoes">
 
         </androidx.recyclerview.widget.RecyclerView>
-
-
 
 
     </RelativeLayout>
